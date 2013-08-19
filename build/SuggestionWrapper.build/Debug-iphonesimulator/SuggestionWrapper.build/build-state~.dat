@@ -1,0 +1,435 @@
+TSuggestionWrapper
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Info.plist SuggestionWrapper/SuggestionWrapper-Info.plist
+cProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.pth SuggestionWrapper/SuggestionWrapper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051649DE30000000000228FE0
+t1365548515
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051649DF100000000003DDFA0
+t1365548529
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051649DF100000000000015F7
+t1365548529
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051649E260000000000000E8D
+t1365548582
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051649E290000000000AB6230
+t1365548585
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051649ED10000000000001B73
+t1365548753
+s7027
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Default-568h@2x.png
+c00000000515C9E6200000000000048A2
+t1365024354
+s18594
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Default.png
+c00000000515C9E62000000000000198C
+t1365024354
+s6540
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Default@2x.png
+c00000000515C9E620000000000003EEB
+t1365024354
+s16107
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m
+c0000000051F8DE16000000000000098F
+t1375264278
+s2447
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m
+c0000000051F90F22000000000000043F
+t1375276834
+s1087
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SuggestionWrapper-Prefix.pch
+c0000000051F9EF6E0000000000000285
+t1375334254
+s645
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"SWEnumHandler.h"
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m
+c0000000051F8E22D00000000000000C8
+t1375265325
+s200
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m
+c0000000051FA0A3F00000000000000BE
+t1375341119
+s190
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m
+c0000000051FA30DD00000000000009BD
+t1375351005
+s2493
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEnumHandler.h
+c0000000051FA0B7400000000000001DE
+t1375341428
+s478
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m
+c0000000051F8E23700000000000000BF
+t1375265335
+s191
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m
+c0000000051FA30DD0000000000000CB0
+t1375351005
+s3248
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m
+c0000000051FA0AE900000000000000C4
+t1375341289
+s196
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/en.lproj/InfoPlist.strings
+c0000000051F8DE16000000000000002D
+t1375264278
+s45
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/en.lproj/SWViewController.xib
+c0000000051F8DE160000000000001788
+t1375264278
+s6024
+
+N/iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m
+c0000000051F8DE16000000000000015C
+t1375264278
+s348
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app.dSYM
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Default-568h@2x.png
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Default.png
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Default@2x.png
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Info.plist
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/PkgInfo
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/en.lproj/SWViewController.nib
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.o
+t2
+s0
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SuggestionWrapper.LinkFileList
+c0000000051FA311F00000000000004EE
+t1375351071
+s1262
+
+N/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.pth
+t2
+s0
+
+NSuggestionWrapper/SuggestionWrapper-Info.plist
+c0000000051F8DE160000000000000494
+t1375264278
+s1172
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m
+r0
+
+CBuild AST from /iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8387099f68aab741^a088399f68aab741^---0#1#0#--18"Check dependencies36"EDD38C7C-5DDA-4025-B1C0-820D43780792-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.864905
+e397043871.960048
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.maca8dd9f68aab741^dac8f59f68aab741^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m0000000000000000^3595"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.o SuggestionWrapper/Wrapper/SWActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActivity.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActivity.o36"2435C80E-50E9-4CF0-AE8E-CE5CD2CF7FB3-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043872.002699
+e397043872.093201
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m320503a068aab741^b1db17a068aab741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m0000000000000000^3577"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.o SuggestionWrapper/Wrapper/SWActor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWActor.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWActor.o36"46B2294F-8ECF-4A83-84AE-58FF51AC757F-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.948137
+e397043872.124677
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m1ff3f59f68aab741^e1eb1fa068aab741^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m0000000000000000^3597"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.o SuggestionWrapper/SWAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWAppDelegate.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppDelegate.o36"BB134F9C-C772-4540-ACC0-418F6667DC2E-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.864880
+e397043871.939808
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.mfb92dd9f68aab741^c498f09f68aab741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m0000000000000000^3667"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.o SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWAppSuggestionHandler.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWAppSuggestionHandler.o36"BD5317E4-DA39-457C-8785-34E266F6A3D6-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.961392
+e397043872.036965
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m145af69f68aab741^b7b509a068aab741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m0000000000000000^3577"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.o SuggestionWrapper/Wrapper/SWEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWEvent.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWEvent.o36"86BC2858-D198-44AB-999E-85FE5D11D4B6-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.865120
+e397043871.935474
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m2c9bdd9f68aab741^1fdaef9f68aab741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m0000000000000000^3613"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.o SuggestionWrapper/Wrapper/SWPageHandler.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWPageHandler.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWPageHandler.o36"73AACE70-3333-4A76-A01E-AC3DF83F9CAA-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043872.052906
+e397043872.111906
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.mb6d910a068aab741^e6e51ca068aab741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m0000000000000000^3589"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.o SuggestionWrapper/Wrapper/SWTrigger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/Wrapper/SWTrigger.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWTrigger.o36"AACF7DEA-9175-4227-AF69-5DA231D017E6-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.864871
+e397043872.000133
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.ma393dd9f68aab741^215900a068aab741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m0000000000000000^3615"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.o SuggestionWrapper/SWViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SWViewController.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SWViewController.o36"3D0E60F8-C951-40F9-9232-9F5C72429694-
+
+CCompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.o /iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.948142
+e397043872.050581
+r1
+xCompileC
+xbuild/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.o
+x/iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.mf3caf59f68aab741^bff20ca068aab741^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m0000000000000000^3543"CompileC build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.o SuggestionWrapper/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.d --serialize-diagnostics /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/main.m -o /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/main.o36"F4AD945D-1BB8-492A-AF0C-41FB5EDB8E22-
+
+CCompileXIB /iPhoneApps/SuggestionWrapper/SuggestionWrapper/en.lproj/SWViewController.xib
+r0
+
+CCopyStringsFile /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/en.lproj/InfoPlist.strings SuggestionWrapper/en.lproj/InfoPlist.strings
+r0
+
+CCpResource SuggestionWrapper/Default-568h@2x.png build/Debug-iphonesimulator/SuggestionWrapper.app/Default-568h@2x.png
+r0
+
+CCpResource SuggestionWrapper/Default.png build/Debug-iphonesimulator/SuggestionWrapper.app/Default.png
+r0
+
+CCpResource SuggestionWrapper/Default@2x.png build/Debug-iphonesimulator/SuggestionWrapper.app/Default@2x.png
+r0
+
+CGenerateDSYMFile /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app.dSYM /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper
+r0
+
+CLd /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper normal i386
+s397043872.131722
+e397043872.169419
+r0
+xLd
+x/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper
+xnormal
+xi386
+oUndefined symbols for architecture i386:
+o  "_OBJC_CLASS_$_TriggerEventsHandler", referenced from:
+o      objc-class-ref in SWPageHandler.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper21cc21a068aab741^925b2ba068aab741^-264"Undefined symbols for architecture i386:  "_OBJC_CLASS_$_TriggerEventsHandler", referenced from:      objc-class-ref in SWPageHandler.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@54""_OBJC_CLASS_$_TriggerEventsHandler", referenced from:-397043872#41#57#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@33"Objc-class-ref in SWPageHandler.o-397043872#98#40#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-397043872#138#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-397043872#184#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1161"Ld build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper normal i386    cd /iPhoneApps/SuggestionWrapper    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator -filelist /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/Objects-normal/i386/SuggestionWrapper.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/SuggestionWrapper36"F350181D-4879-40FA-B3EE-5854E5A651EC-
+
+CProcessInfoPlistFile /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Info.plist SuggestionWrapper/SuggestionWrapper-Info.plist
+s397043871.231548
+e397043871.257662
+r1
+xProcessInfoPlistFile
+x/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Info.plist
+xSuggestionWrapper/SuggestionWrapper-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Process SuggestionWrapper/SuggestionWrapper-Info.plist575d3b9f68aab741^f1f5419f68aab741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SuggestionWrapper-Info.plist0000000000000000^693"ProcessInfoPlistFile build/Debug-iphonesimulator/SuggestionWrapper.app/Info.plist SuggestionWrapper/SuggestionWrapper-Info.plist    cd /iPhoneApps/SuggestionWrapper    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SuggestionWrapper/SuggestionWrapper-Info.plist -genpkginfo /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app/Info.plist36"0A545A24-B04F-4219-836B-C7AD3AE6CF47-
+
+CProcessPCH /Users/pavan/Library/Developer/Xcode/DerivedData/SuggestionWrapper-dzyymslipkjjjxfzhvgsjmppyvhf/Index/PrecompiledHeaders/SuggestionWrapper-Prefix-bwxeslquisbkxncnvbwtbnxhadej_ast/SuggestionWrapper-Prefix.pch.pth SuggestionWrapper/SuggestionWrapper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.pth SuggestionWrapper/SuggestionWrapper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397043871.266060
+e397043871.857818
+r1
+xProcessPCH
+x/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.pth
+xSuggestionWrapper/SuggestionWrapper-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile SuggestionWrapper/SuggestionWrapper-Prefix.pch753a449f68aab741^1c99db9f68aab741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/iPhoneApps/SuggestionWrapper/SuggestionWrapper/SuggestionWrapper-Prefix.pch0000000000000000^3628"ProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.pth SuggestionWrapper/SuggestionWrapper-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/SuggestionWrapper    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-generated-files.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-own-target-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-all-target-headers.hmap -iquote /iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/SuggestionWrapper-project-headers.hmap -I/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources/i386 -I/iPhoneApps/SuggestionWrapper/build/SuggestionWrapper.build/Debug-iphonesimulator/SuggestionWrapper.build/DerivedSources -F/iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.dia -c /iPhoneApps/SuggestionWrapper/SuggestionWrapper/SuggestionWrapper-Prefix.pch -o /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/SuggestionWrapper-Prefix-gdyouhigvijcjzcvilrrneqrmmje/SuggestionWrapper-Prefix.pch.d36"A1AF46B1-F971-40B1-B9D5-EB60812E7773-
+
+CTouch /iPhoneApps/SuggestionWrapper/build/Debug-iphonesimulator/SuggestionWrapper.app
+r0
+
